@@ -1,5 +1,6 @@
 html {
-    font-size: medium
+    font-size: medium;
+    display: block;
 }
 
 header {
