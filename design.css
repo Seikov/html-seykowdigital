@@ -1,0 +1,56 @@
+html {
+    font-size: medium
+}
+
+header {
+    background: #272829;
+    text-align: center;
+    padding: 5px;
+    color: goldenrod;
+}
+
+nav {
+    text-align:center;
+    background: #272829;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul {
+    text-align: center;
+    padding: 5px;
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 2rem;
+}
+
+.h-text {
+    font-family: 'Gasoek One', sans-serif;
+    font-weight: 300;
+}
+
+header h1 {
+    font-size: 3rem
+}
+
+header p {
+    font-size: 1rem;
+}
+
+footer{
+    background: #272829;
+    color: goldenrod;
+    text-align: center;
+    padding: 20px;
+}
+
+body{
+    text-align: center;
+}
