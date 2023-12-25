@@ -1,3 +1,4 @@
+
 html {
     font-size: medium;
     display: block;
@@ -43,6 +44,10 @@ header h1 {
 
 header p {
     font-size: 1rem;
+}
+
+.img-main {
+width: 100%
 }
 
 footer{
